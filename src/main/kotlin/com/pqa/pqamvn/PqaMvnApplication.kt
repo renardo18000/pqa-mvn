@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class PqaMvnApplication
 
 fun main(args: Array<String>) {
-	runApplication<PqaMvnApplication>(*args)
+    //start the app
+    runApplication<PqaMvnApplication>(*args)
 }
